@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10;
+    background-color: rgb(250, 235, 215);
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    padding-left: 20;
+}
+table.har {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+th,
+td {
+  padding: 8px 12px;
+}
+
+
+#switch {
+    border: 2px solid;
+    border-radius: 2%;
+}
+#textkeyboard {
+    max-width: 650px;
+}
+table.keyboard {
+    border: 0px;
+    margin: auto;
+    border-collapse: collapse;
+}
