@@ -26,8 +26,25 @@ td {
 #textkeyboard {
     max-width: 650px;
 }
+#textswitch {
+    width: 400px;
+    margin: auto;
+}
 table.keyboard {
     border: 0px;
     margin: auto;
     border-collapse: collapse;
+}
+#keyboarddiv {
+    margin: auto;
+    border-radius: 500px;
+    background-color: rgb(200, 197, 192);
+    height: 250px;
+}
+#switchdiv {
+    background-color: rgb(200, 197, 192);
+    height: 300px;
+    border-radius: 400px;
+    margin: auto;
+    padding-left: 200px;
 }
